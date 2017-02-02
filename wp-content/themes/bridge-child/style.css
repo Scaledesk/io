@@ -1,0 +1,35 @@
+/*
+Theme Name: Bridge Child
+Theme URI: http://demo.qodeinteractive.com/bridge/
+Description: A child theme of Bridge Theme
+Author: Qode Interactive
+Author URI: http://www.qodethemes.com/
+Version: 1.0.0
+Template: bridge
+*/
+@import url("../bridge/style.css");
+
+
+.container_inner{
+  width:1158px !important;
+}
+
+@media screen and (max-width: 768px){
+
+.vc_column_container>.vc_column-inner{
+     padding:0px!important;
+     padding:0px!important;
+}
+
+.project_name{ width:31% !important;}
+.project_location{width:19% !important;}
+.project_city{width:26% !important;}
+.project_area{width:13% !important; padding:0px !important;}
+}
+
+#as_facebook_mem_likebox_widgets:nth-child(2) { 
+    display: none !important;
+
+}
+
+

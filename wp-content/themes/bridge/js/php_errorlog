@@ -1,0 +1,1 @@
+[07-Sep-2016 06:32:51 UTC] PHP Fatal error:  Call to undefined function qode_addslashes() in /home/newvisi8/public_html/parked/newvisiondigital.in/bridge/wp-content/themes/bridge/js/default_dynamic.php on line 115

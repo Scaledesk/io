@@ -1,0 +1,30 @@
+[13-Sep-2016 03:40:06 UTC] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address: ' in /home/interior/public_html/wp-includes/class-phpmailer.php:946
+Stack trace:
+#0 /home/interior/public_html/wp-includes/pluggable.php(352): PHPMailer->setFrom('', '' '', false)
+#1 /home/interior/public_html/wp-content/themes/bridge/includes/ajax_mail.php(36): wp_mail('', '', 'Name:  \nEmail: ...', 'MIME-Version: 1...')
+#2 {main}
+  thrown in /home/interior/public_html/wp-includes/class-phpmailer.php on line 946
+[17-Sep-2016 11:51:37 UTC] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address: ' in /home/interior/public_html/wp-includes/class-phpmailer.php:946
+Stack trace:
+#0 /home/interior/public_html/wp-includes/pluggable.php(352): PHPMailer->setFrom('', ''zeeshan rizvi'', false)
+#1 /home/interior/public_html/wp-content/themes/bridge/includes/ajax_mail.php(36): wp_mail('', '', 'Name: zeeshan r...', 'MIME-Version: 1...')
+#2 {main}
+  thrown in /home/interior/public_html/wp-includes/class-phpmailer.php on line 946
+[21-Sep-2016 09:56:29 UTC] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address: ' in /home/interior/public_html/wp-includes/class-phpmailer.php:946
+Stack trace:
+#0 /home/interior/public_html/wp-includes/pluggable.php(352): PHPMailer->setFrom('', ''ssfsfss ryryrr...', false)
+#1 /home/interior/public_html/wp-content/themes/bridge/includes/ajax_mail.php(36): wp_mail('', '', 'Name: ssfsfss r...', 'MIME-Version: 1...')
+#2 {main}
+  thrown in /home/interior/public_html/wp-includes/class-phpmailer.php on line 946
+[21-Sep-2016 09:56:30 UTC] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address: ' in /home/interior/public_html/wp-includes/class-phpmailer.php:946
+Stack trace:
+#0 /home/interior/public_html/wp-includes/pluggable.php(352): PHPMailer->setFrom('', ''ssfsfss ryryrr...', false)
+#1 /home/interior/public_html/wp-content/themes/bridge/includes/ajax_mail.php(36): wp_mail('', '', 'Name: ssfsfss r...', 'MIME-Version: 1...')
+#2 {main}
+  thrown in /home/interior/public_html/wp-includes/class-phpmailer.php on line 946
+[07-Oct-2016 08:22:21 UTC] PHP Fatal error:  Uncaught exception 'phpmailerException' with message 'Invalid address: ' in /home/interioroptions/public_html/wp-includes/class-phpmailer.php:946
+Stack trace:
+#0 /home/interioroptions/public_html/wp-includes/pluggable.php(352): PHPMailer->setFrom('', ''kaushal kaisz'', false)
+#1 /home/interioroptions/public_html/wp-content/themes/bridge/includes/ajax_mail.php(36): wp_mail('kaushal@newvisi...', '', 'Name: kaushal k...', 'MIME-Version: 1...')
+#2 {main}
+  thrown in /home/interioroptions/public_html/wp-includes/class-phpmailer.php on line 946
